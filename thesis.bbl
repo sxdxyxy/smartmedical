@@ -1,4 +1,4 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -8,20 +8,103 @@
   \urlstyle{rm}\url{#1}\endgroup}\fi
 \providecommand{\bibinfo}[2]{#2}
 
-\bibitem[{罗长阳(2012)}]{__2012}
-\bibinfo{author}{罗长阳},
+\bibitem[{陈 et~al.(2011)陈, 王, and 刘}]{__2011}
+\bibinfo{author}{�.~陈}, \bibinfo{author}{�.~王}, \bibinfo{author}{�.~刘},
+  \bibinfo{title}{{无线传感网在智慧医疗护理中的应用}},
+  \bibinfo{journal}{医疗卫生装备} ~(\bibinfo{number}{05})
+  (\bibinfo{year}{2011}) \bibinfo{pages}{73--75}, ISSN
+  \bibinfo{issn}{1003-8868}.
+
+\bibitem[{曹 and 范(2011)}]{__2011-1}
+\bibinfo{author}{�.~曹}, \bibinfo{author}{�.~范},
+  \bibinfo{title}{{漫谈``智慧医疗''}}, \bibinfo{journal}{上海信息化}
+  ~(\bibinfo{number}{03}) (\bibinfo{year}{2011}) \bibinfo{pages}{26--28}, ISSN
+  \bibinfo{issn}{1672-8424}.
+
+\bibitem[{尚 and 孙(2016)}]{__2016-11}
+\bibinfo{author}{�.~尚}, \bibinfo{author}{�.~孙},
+  \bibinfo{title}{{大数据背景下的智慧医疗应用现状研究}},
+  \bibinfo{journal}{科技和产业} ~(\bibinfo{number}{10})
+  (\bibinfo{year}{2016}) \bibinfo{pages}{19--27}, ISSN
+  \bibinfo{issn}{1671-1807}.
+
+\bibitem[{吴 et~al.(2016)吴, 王, and 刘}]{__2016-10}
+\bibinfo{author}{�.~吴}, \bibinfo{author}{�.~王}, \bibinfo{author}{�.~刘},
+  \bibinfo{title}{{智慧医疗的优势、应用现状及发展方向}},
+  \bibinfo{journal}{实用医药杂志} ~(\bibinfo{number}{10})
+  (\bibinfo{year}{2016}) \bibinfo{pages}{942--943+947}, ISSN
+  \bibinfo{issn}{1671-4008}.
+
+\bibitem[{郭 et~al.(2016)郭, 王, 荆, and 钱}]{__2016-6}
+\bibinfo{author}{�.~郭}, \bibinfo{author}{�.~王}, \bibinfo{author}{�.~荆},
+  \bibinfo{author}{�.~钱},
+  \bibinfo{title}{{智慧医疗发展应用及其对策}},
+  \bibinfo{journal}{医学信息学杂志} ~(\bibinfo{number}{08})
+  (\bibinfo{year}{2016}) \bibinfo{pages}{2--8}, ISSN \bibinfo{issn}{1673-6036}.
+
+\bibitem[{钱 et~al.(2016)钱, 费, and 沈}]{__2016-5}
+\bibinfo{author}{�.~钱}, \bibinfo{author}{�.~费}, \bibinfo{author}{�.~沈},
+  \bibinfo{title}{{国家智慧医疗评价指标体系的构建}},
+  \bibinfo{journal}{中国医院} ~(\bibinfo{number}{08})
+  (\bibinfo{year}{2016}) \bibinfo{pages}{18--21}, ISSN
+  \bibinfo{issn}{1671-0592}.
+
+\bibitem[{何 et~al.(2016)何, 熊, and 尚}]{__2016-4}
+\bibinfo{author}{�.~何}, \bibinfo{author}{�.~熊}, \bibinfo{author}{�.~尚},
+  \bibinfo{title}{{利用云计算打造智慧医疗管理模式}},
+  \bibinfo{journal}{医学信息学杂志} ~(\bibinfo{number}{04})
+  (\bibinfo{year}{2016}) \bibinfo{pages}{39--42+62}, ISSN
+  \bibinfo{issn}{1673-6036}.
+
+\bibitem[{陆 et~al.(2016)陆, 杜, 侯, and 杨}]{__2016-3}
+\bibinfo{author}{�.~陆}, \bibinfo{author}{�.~杜}, \bibinfo{author}{�.~侯},
+  \bibinfo{author}{�.~杨}, \bibinfo{title}{{智慧医疗的现状及发展}},
+  \bibinfo{journal}{中国医院建筑与装备} ~(\bibinfo{number}{03})
+  (\bibinfo{year}{2016}) \bibinfo{pages}{82--84}, ISSN
+  \bibinfo{issn}{1671-9174}.
+
+\bibitem[{洪 et~al.(2015)洪, 李, 刘, and 金}]{__2015-21}
+\bibinfo{author}{�.~洪}, \bibinfo{author}{�.~李}, \bibinfo{author}{�.~刘},
+  \bibinfo{author}{�.~金},
+  \bibinfo{title}{{智慧医疗在智慧社区中的建设和实践}},
+  \bibinfo{journal}{建筑技术} ~(\bibinfo{number}{S1})
+  (\bibinfo{year}{2015}) \bibinfo{pages}{136--137}, ISSN
+  \bibinfo{issn}{1000-4726}.
+
+\bibitem[{王 et~al.(2015)王, 高, and 李}]{__2015-20}
+\bibinfo{author}{�.~王}, \bibinfo{author}{�.~高}, \bibinfo{author}{�.~李},
+  \bibinfo{title}{{地理大数据服务于智慧医疗与健康的思考}},
+  \bibinfo{journal}{中国卫生信息管理杂志} ~(\bibinfo{number}{06})
+  (\bibinfo{year}{2015}) \bibinfo{pages}{634--637}, ISSN
+  \bibinfo{issn}{1672-5166}.
+
+\bibitem[{邵 et~al.(2015)邵, 王, 孟, 刘, 韩, and 徐}]{__2015-19}
+\bibinfo{author}{�.~邵}, \bibinfo{author}{�.~王}, \bibinfo{author}{�.~孟},
+  \bibinfo{author}{�.~刘}, \bibinfo{author}{�.~韩}, \bibinfo{author}{�.~徐},
+  \bibinfo{title}{{基于物联网的社区智慧医疗系统研究}},
+  \bibinfo{journal}{软件} ~(\bibinfo{number}{12}) (\bibinfo{year}{2015})
+  \bibinfo{pages}{45--48}, ISSN \bibinfo{issn}{1003-6970}.
+
+\bibitem[{邱(2015)}]{__2015-18}
+\bibinfo{author}{�.~邱}, \bibinfo{title}{{智慧医疗平台设计和应用}},
+  \bibinfo{journal}{医学信息学杂志} ~(\bibinfo{number}{11})
+  (\bibinfo{year}{2015}) \bibinfo{pages}{16--19}, ISSN
+  \bibinfo{issn}{1673-6036}.
+
+\bibitem[{罗(2012)}]{__2012}
+\bibinfo{author}{�.~罗},
   \bibinfo{title}{{智慧医疗监控终端软件系统的设计与实现}},
   \bibinfo{type}{硕士}, \bibinfo{school}{电子科技大学},
   \bibinfo{year}{2012}.
 
-\bibitem[{高录军(2013)}]{__2013-2}
-\bibinfo{author}{高录军},
+\bibitem[{高(2013)}]{__2013-2}
+\bibinfo{author}{�.~高},
   \bibinfo{title}{{智慧医疗系统的研究与实现}},
   \bibinfo{type}{硕士}, \bibinfo{school}{中国地质大学(北京)},
   \bibinfo{year}{2013}.
 
-\bibitem[{张正欣(2013)}]{__2013}
-\bibinfo{author}{张正欣},
+\bibitem[{张(2013)}]{__2013}
+\bibinfo{author}{�.~张},
   \bibinfo{title}{{基于云计算平台的电子医疗服务系统设计与实现}},
   \bibinfo{type}{硕士}, \bibinfo{school}{北京工业大学},
   \bibinfo{year}{2013}.
@@ -47,112 +130,5 @@
   \bibinfo{journal}{岩土力学} ~(\bibinfo{number}{03})
   (\bibinfo{year}{2012}) \bibinfo{pages}{919--924}, ISSN
   \bibinfo{issn}{1000-7598}.
-
-\bibitem[{张磊磊(2016)}]{_emd_2016}
-\bibinfo{author}{张磊磊},
-  \bibinfo{title}{{基于EMD的心电信号去噪方法研究及实现验证}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{重庆邮电大学},
-  \bibinfo{year}{2016}.
-
-\bibitem[{陈建涛(2016)}]{__2016-1}
-\bibinfo{author}{陈建涛},
-  \bibinfo{title}{{面向用户健康服务的大数据平台设计及其分析处理关键技术}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{南京邮电大学},
-  \bibinfo{year}{2016}.
-
-\bibitem[{吴帆(2014)}]{__2014-2}
-\bibinfo{author}{吴帆},
-  \bibinfo{title}{{基于智慧医疗的下肢外骨骼机器人康复系统研究}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{上海交通大学},
-  \bibinfo{year}{2014}.
-
-\bibitem[{魏丽娜(2014)}]{__2014-1}
-\bibinfo{author}{魏丽娜},
-  \bibinfo{title}{{数字化智慧医疗病区质量管控研究}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{南方医科大学},
-  \bibinfo{year}{2014}.
-
-\bibitem[{苏力(2013)}]{__2013-3}
-\bibinfo{author}{苏力},
-  \bibinfo{title}{{物联网技术在农村基层医疗卫生管理应用的研究与实践}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{湖南农业大学},
-  \bibinfo{year}{2013}.
-
-\bibitem[{刘毅(2012)}]{__2012-1}
-\bibinfo{author}{刘毅},
-  \bibinfo{title}{{基于智慧医疗的个人健康门户系统设计与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{电子科技大学},
-  \bibinfo{year}{2012}.
-
-\bibitem[{王俊(2015)}]{_webpc_2015}
-\bibinfo{author}{王俊},
-  \bibinfo{title}{{基于Web和PC客户端的智慧医疗监护平台的设计与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{北京邮电大学},
-  \bibinfo{year}{2015}.
-
-\bibitem[{赵长勇(2014)}]{__2014}
-\bibinfo{author}{赵长勇},
-  \bibinfo{title}{{面向智慧医疗的诊断信息数据挖掘应用研究}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{浙江大学}, \bibinfo{year}{2014}.
-
-\bibitem[{韩璐(2013)}]{__2013-1}
-\bibinfo{author}{韩璐},
-  \bibinfo{title}{{基于便捷终端的智慧医疗系统的设计与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{电子科技大学},
-  \bibinfo{year}{2013}.
-
-\bibitem[{沈顺(2015)}]{__2015-8}
-\bibinfo{author}{沈顺},
-  \bibinfo{title}{{基于大数据处理的用户健康信息服务平台优化设计及应用}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{南京邮电大学},
-  \bibinfo{year}{2015}.
-
-\bibitem[{蒋鸿(2015)}]{__2015-7}
-\bibinfo{author}{蒋鸿},
-  \bibinfo{title}{{基于数据融合的智慧养老医疗健康系统的研究与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{南京邮电大学},
-  \bibinfo{year}{2015}.
-
-\bibitem[{龚颖(2015)}]{__2015-6}
-\bibinfo{author}{龚颖},
-  \bibinfo{title}{{穿戴式移动用户健康信息感知系统设计与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{南京邮电大学},
-  \bibinfo{year}{2015}.
-
-\bibitem[{赵晓伟(2015)}]{_ble_2015}
-\bibinfo{author}{赵晓伟},
-  \bibinfo{title}{{基于蓝牙BLE的智能体温测量系统的设计与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{南京邮电大学},
-  \bibinfo{year}{2015}.
-
-\bibitem[{徐凯田(2015)}]{__2015-5}
-\bibinfo{author}{徐凯田},
-  \bibinfo{title}{{基于大数据的智慧移动医疗信息系统结构研究}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{青岛科技大学},
-  \bibinfo{year}{2015}.
-
-\bibitem[{谢天钧(2015{\natexlab{a}})}]{__2015-4}
-\bibinfo{author}{谢天钧},
-  \bibinfo{title}{{智慧医疗云服务平台研究与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{北京工业大学},
-  \bibinfo{year}{2015}{\natexlab{a}}.
-
-\bibitem[{{巍张}(2015)}]{_android_2015}
-\bibinfo{author}{{巍张}},
-  \bibinfo{title}{{基于Android的智慧医疗预约挂号客户端设计与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{大连交通大学},
-  \bibinfo{year}{2015}.
-
-\bibitem[{张鑫(2014)}]{_ieee11073_2014}
-\bibinfo{author}{张鑫},
-  \bibinfo{title}{{基于IEEE11073标准的智慧医疗系统架构研究}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{河北联合大学},
-  \bibinfo{year}{2014}.
-
-\bibitem[{谢天钧(2015{\natexlab{b}})}]{__2015-1}
-\bibinfo{author}{谢天钧},
-  \bibinfo{title}{{智慧医疗云服务平台研究与实现}},
-  \bibinfo{type}{硕士}, \bibinfo{school}{北京工业大学},
-  \bibinfo{year}{2015}{\natexlab{b}}.
 
 \end{thebibliography}
